@@ -1,15 +1,27 @@
-## Memory Card Game
+# Memory Card Game
 ## Background
 The project involves developing a retro game designed to evoke nostalgia in the user. The game is a matching card game that challenges the user's memory and concentration. This "Matching Card Game" is a single-player game. The rules are very simple, yet the game remains challenging. When the game starts, you will see 12 cards with their backs facing the player. Out of these 12 cards, there are 6 pairs. When you click on a card, it will turn over to reveal its face. After turning over the first card, you need to guess which of the remaining 11 cards matches the card you just flipped. If you guess incorrectly, the cards will turn back over. If you guess correctly, the cards will remain face up and will be considered completed. Each guess on the second card will be counted as an attempt, and the game will display the number of attempts you have made. The goal is to match all the pairs with as few attempts as possible.
 
-## User Manual
+## Installation:
+
+**Fastest way**
+- Use the game installer: Downloadable via [this link](https://drive.google.com/file/d/1HX6jEVt5-DlHN5Ta7U0jQSvC0Kl908JG/view?usp=sharing).
+
+ **Other ways**
+- Install [Intellij](https://www.jetbrains.com/idea/download/?section=windows) and make sure you have [JDK-17 or newer](https://www.oracle.com/se/java/technologies/downloads/).
+
 **Running the Game**
-- Open IntelliJ.
+
+- Clone this repo.
+
+- Open the repo using IntelliJ or a suitable IDE.
   
 - Load the classes for the game.
   
-- Click on RUN to start the game.
-  
+- Navigate to **Main** and Click on **Run** to start the game.
+
+## User Manual
+
 **Game Interface:**
 - Press **New game** on the welcome screen.
 - A window will appear showing the layout of the cards.
