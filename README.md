@@ -43,11 +43,18 @@ The project involves developing a retro game designed to evoke nostalgia in the 
 - To stop the music, go to the menu and click on **Sound** / **Stop**.
 - To play the music again, go to the menu and click on **Sound** / **Play**.
 
+**Screenshots:**
 
 
-![Alt Text](https://github.com/Ingenframtid/TDDD78-Memory-Game/blob/main/screenshots/screenshot%202.jpg)
+![Alt Text](https://github.com/Ingenframtid/MCG/blob/main/screenshots/Main%20menu.png)
 
-## UML Diagram of the program structure
 
-![Alt Text](https://github.com/Ingenframtid/TDDD78-Memory-Game/blob/main/screenshots/screenshot%201.jpg)
+
+
+![Alt Text](https://github.com/Ingenframtid/MCG/blob/main/screenshots/Activity.png)
+
+
+
+
+![Alt Text](https://github.com/Ingenframtid/MCG/blob/main/screenshots/Score.png)
 
